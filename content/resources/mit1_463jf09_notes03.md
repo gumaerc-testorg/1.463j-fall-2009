@@ -2,8 +2,13 @@
 content_type: resource
 description: Supplementary notes on capital, financing, markets, international competition,
   globalization, and risk.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/93984bad3446de2bfdb9e85b825538fc_MIT1_463JF09_notes03.pdf
+file: /media/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/93984bad3446de2bfdb9e85b825538fc_MIT1_463JF09_notes03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Session Three Reading
 uid: 93984bad-3446-de2b-fdb9-e85b825538fc

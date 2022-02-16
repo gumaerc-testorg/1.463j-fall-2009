@@ -3,8 +3,13 @@ content_type: resource
 description: Supplementary notes on new opportunities and marketing targets, appropriate
   policies and strategies to adopt in order to enter overseas markets, traditional
   and future approaches to partnering, and project delivery.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/027ded1f1aa014faeb768dd36007bbd7_MIT1_463JF09_notes06.pdf
+file: /media/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/027ded1f1aa014faeb768dd36007bbd7_MIT1_463JF09_notes06.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: The International Markets, Networking/Marketing and Selecting the Appropriate
   Project Delivery System
