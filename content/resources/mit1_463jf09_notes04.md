@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57641dba-3797-d025-d4b7-c13a7f5fedd9
 resourcetype: Document
 title: '20/20: Vision for the Future of the AEC Field'
 uid: 1321f79f-7173-b274-5944-d77f5185b761

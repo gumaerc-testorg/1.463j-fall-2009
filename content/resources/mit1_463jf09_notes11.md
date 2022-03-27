@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57641dba-3797-d025-d4b7-c13a7f5fedd9
 resourcetype: Document
 title: Global Planning and Project Delivery
 uid: d3eb2e14-a867-b904-866b-2a61b976b1e1

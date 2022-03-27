@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57641dba-3797-d025-d4b7-c13a7f5fedd9
 resourcetype: Document
 title: 'Risk Management Opportunities and Parochialism and Other Barriers to Overseas
   Involvement '

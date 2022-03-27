@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 57641dba-3797-d025-d4b7-c13a7f5fedd9
 resourcetype: Document
 title: 'Navigating the Increasingly Treacherous Global Market '
 uid: 87c912a9-12cb-4e4d-fb42-b6f9c2a2b545
