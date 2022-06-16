@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This calendar section provides the schedule of lecture topics and instructors,
+  and brief summaries of each lecture.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

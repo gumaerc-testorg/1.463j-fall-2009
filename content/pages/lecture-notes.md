@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, lecture notes,
+  and supplementary notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ SUPPLEMENTARY NOTES
 Course introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec01))
+({{% resource_link 80b956bd-f0e5-ed8c-034b-79cea1626dd6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -49,7 +51,7 @@ Course introduction
 The growing globalization of the architecture, engineering, and construction (A/E/C) fields
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec02))
+({{% resource_link e7d1aa94-464e-773a-20c8-7bc01df3192a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -64,10 +66,10 @@ The growing globalization of the architecture, engineering, and construction (A/
 Impact of globalization and the current financial crisis on construction industry
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec03))
+({{% resource_link d4b0e63a-5e13-ef6a-7c8c-d72d2a84f765 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_notes03))
+({{% resource_link 93984bad-3446-de2b-fdb9-e85b825538fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,10 +81,10 @@ Impact of globalization and the current financial crisis on construction industr
 20/20: vision for the future of the A/E/C field
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec04))
+({{% resource_link afb95eaa-c655-ccbd-2c4e-7b57ed8ba935 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_notes04))
+({{% resource_link 1321f79f-7173-b274-5944-d77f5185b761 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +96,7 @@ Impact of globalization and the current financial crisis on construction industr
 Marketing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec05))
+({{% resource_link 9bda0420-e462-7366-89a2-a755237091de "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -109,10 +111,10 @@ Marketing
 International markets, networking/marketing and selecting the appropriate project delivery system
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec06))
+({{% resource_link 75e30948-b2ed-0382-3756-ff6500c8f549 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_notes06))
+({{% resource_link 027ded1f-1aa0-14fa-eb76-8dd36007bbd7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +126,7 @@ International markets, networking/marketing and selecting the appropriate projec
 Infrastucture markets
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec07))
+({{% resource_link b5c75769-8c6b-c6a7-f8c9-e9bf0d3a7700 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -139,10 +141,10 @@ Infrastucture markets
 Navigating the increasingly treacherous global markets
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec08))
+({{% resource_link fa29fc64-43b9-ac29-3b8c-a681d3063232 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_notes08))
+({{% resource_link 87c912a9-12cb-4e4d-fb42-b6f9c2a2b545 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,10 +156,10 @@ Navigating the increasingly treacherous global markets
 Risk management opportunities and parochialism and other barriers to overseas involvement
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec09))
+({{% resource_link 1fc73e17-0a79-a782-0d8b-8b3ad32ab887 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_notes09))
+({{% resource_link 0305d54a-5b11-50be-2e0a-6038ec606fc2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +171,7 @@ Risk management opportunities and parochialism and other barriers to overseas in
 Productivity, competitiveness, and innovation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec10))
+({{% resource_link 8674e0a5-bffb-f5a4-918e-307ae677ea14 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -184,10 +186,10 @@ Productivity, competitiveness, and innovation
 Project delivery systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec11))
+({{% resource_link 1782955a-1a38-46b3-823b-5736a9ee1310 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_notes11))
+({{% resource_link d3eb2e14-a867-b904-866b-2a61b976b1e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Project delivery systems
 Megacities and the environment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit1_463jf09_lec12))
+({{% resource_link c270feeb-c47c-0b71-f1a8-6ef57dfcada5 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
