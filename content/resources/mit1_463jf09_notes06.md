@@ -7,6 +7,7 @@ file: /courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: The International Markets, Networking/Marketing and Selecting the Appropr
 uid: 027ded1f-1aa0-14fa-eb76-8dd36007bbd7
 ---
 Supplementary notes on new opportunities and marketing targets, appropriate policies and strategies to adopt in order to enter overseas markets, traditional and future approaches to partnering, and project delivery.
-

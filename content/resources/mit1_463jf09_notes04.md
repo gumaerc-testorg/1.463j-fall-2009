@@ -6,6 +6,7 @@ file: /courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '20/20: Vision for the Future of the AEC Field'
 uid: 1321f79f-7173-b274-5944-d77f5185b761
 ---
 Supplementary notes on the future of the AEC field, the decline of the nation state, research needs, and life cycle strategies.
-

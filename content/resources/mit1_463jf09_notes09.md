@@ -6,6 +6,7 @@ file: /courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Risk Management Opportunities and Parochialism and Other Barriers to Ove
 uid: 0305d54a-5b11-50be-2e0a-6038ec606fc2
 ---
 Lecture notes on risk management opportunities, parochialism, international projects and investment risk, and other barriers to overseas involvement.
-

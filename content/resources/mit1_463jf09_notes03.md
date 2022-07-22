@@ -6,6 +6,7 @@ file: /courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Session Three Reading
 uid: 93984bad-3446-de2b-fdb9-e85b825538fc
 ---
 Supplementary notes on capital, financing, markets, international competition, globalization, and risk.
-
