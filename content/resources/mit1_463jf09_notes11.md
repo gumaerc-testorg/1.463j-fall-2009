@@ -4,6 +4,7 @@ description: Supplementary notes on alternate delivery systems, International Co
   planning, marketing new project delivery systems and concessions internationally,
   and establishing a foreign operation or office.
 file: /courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/d3eb2e14a867b904866b2a61b976b1e1_MIT1_463JF09_notes11.pdf
+file_size: 335717
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
