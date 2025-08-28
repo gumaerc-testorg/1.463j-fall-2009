@@ -2,7 +2,7 @@
 content_type: resource
 description: Supplementary notes on capital, financing, markets, international competition,
   globalization, and risk.
-file: /courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/93984bad3446de2bfdb9e85b825538fc_MIT1_463JF09_notes03.pdf
+file: /ol-ocw-studio-app/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/93984bad3446de2bfdb9e85b825538fc_MIT1_463JF09_notes03.pdf
 file_size: 247978
 file_type: application/pdf
 learning_resource_types:
